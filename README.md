@@ -11,15 +11,15 @@
 **Langauges & Tools**
 
 <code>
-<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/python.svg"></code>&nbsp;&nbsp;
-<code>
-<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/haskell.svg"></code>&nbsp;&nbsp;
-<code>
 <img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/cpp.jpg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/c.webp"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/python.svg"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
+<code>
+<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/haskell.svg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/mysql.svg"></code>&nbsp;&nbsp;
 <code>

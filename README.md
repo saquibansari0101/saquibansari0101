@@ -11,9 +11,9 @@
 **Langauges & Tools**
 
 <code>
-<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/tree/master/icons/flutter.svg"></code>&nbsp;&nbsp;
+<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/master/icons/flutter.svg"></code>&nbsp;&nbsp;
 <code>
-<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/tree/master/icons/python.svg"></code>&nbsp;&nbsp;
+<img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/master/icons/python.svg"></code>&nbsp;&nbsp;
 <code>
 <img height="20" src="https://github.com/SaquibAnsari0101/SaquibAnsari/tree/master/icons/haskell.svg"></code>&nbsp;&nbsp;
 <code>

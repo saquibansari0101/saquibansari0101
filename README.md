@@ -30,5 +30,5 @@
 
 <p align='left'>
 <a href="www.linkedin.com/in/saquibansari0101"><img height="25" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/saquib_ansari"><img height="25" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/saquib_ansari"><img height="25" src="https://github.com/SaquibAnsari0101/SaquibAnsari/blob/master/icons/hackerrank.png"></a>&nbsp;&nbsp;
   

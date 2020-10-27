@@ -4,6 +4,8 @@
 ## Hello there !! 👋
 ### My name is **Saquib Akhtar Ansari**.
 
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/SaquibAnsari0101?label=Followers&style=social">
+
 - 🔭 I’m currently working on UI Development on a Project.
 - 🌱 I’m currently learning Rust.
 

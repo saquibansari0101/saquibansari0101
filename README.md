@@ -35,7 +35,7 @@
 **Contact me**
 
 <p align='left'>
-<a href="https://www.linkedin.com/in/saquibansari0101"><img height="25" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/linedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saquibansari0101"><img height="25" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/saquib_ansari"><img height="25" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/hackerrank.png"></a>&nbsp;&nbsp;
   
 ![Saquibs's github stats](https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)

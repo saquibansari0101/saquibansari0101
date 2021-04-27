@@ -13,23 +13,23 @@
 **Langauges & Tools**
 
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/cpp.jpg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/cpp.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/c.webp"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/c.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/python.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/python.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/android.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/android.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/java.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/java.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/flutter.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/flutter.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/haskell.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/haskell.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/mysql.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/mysql.png"></code>&nbsp;&nbsp;
 <code>
-<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/linux.svg"></code>&nbsp;&nbsp;
+<img height="40" src="https://github.com/saquibansari0101/SaquibAnsari/blob/master/icons/linux.png"></code>&nbsp;&nbsp;
 
 
 **Contact me**

@@ -8,7 +8,7 @@
 
 > An incubating professional android developer, mesmerized by the world of tech!
 
-![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![](https://img.shields.io/badge/-C-79B9CC?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/-Java-E95420?style=flat-square&logo=Java&logoColor=white)

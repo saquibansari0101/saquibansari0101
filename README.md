@@ -35,8 +35,8 @@ And experienced with Python data analysis a little.
 
 
 ## Get in touch
-
-[![](https://img.shields.io/badge/-@saquibansari0101-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/saquibansari0101)
+<!-- 
+[![](https://img.shields.io/badge/-@saquibansari0101-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/saquibansari0101) -->
 [![](https://img.shields.io/badge/-@saquibansari0101-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saquibansari0101)
 [![](https://img.shields.io/badge/-@asaquib__ansari-0078D4?style=flat-square&logo=Microsoft%20Outlook&logoColor=white)](mailto:saquib_ansari@outlook.com)
 [![](https://img.shields.io/badge/-@saquibansari-F58025?style=flat-square&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15754411/saquibansari)

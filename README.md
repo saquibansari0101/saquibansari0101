@@ -25,7 +25,7 @@
 
 ---
 
-Current daily workflow: Flutter, Git and Dart.
+Current daily workflow: Python, Flutter, Git and Dart.
 
 Having developed several applications using Flutter and Native.
 Fluency in C, C++, Java and Dart.

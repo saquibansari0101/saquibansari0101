@@ -32,7 +32,8 @@
 
 ### Stats
 
- <img src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&count_private=true" />  <img src="https://github-readme-streak-stats.herokuapp.com?user=saquibansari0101&ring=5094F0&currStreakLabel=5094F0"/> 
+| <img src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&count_private=true" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=saquibansari0101&ring=5094F0&currStreakLabel=5094F0"/> |
+|:------------:|:------------:|
 
 ![Saquib's github activity graph](https://activity-graph.herokuapp.com/graph?username=saquibansari0101&bg_color=ffffff&color=5094f0&line=5094f0&point=000000&area=true&area_color=5094f0&hide_border=true)
 

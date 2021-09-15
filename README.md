@@ -1,12 +1,12 @@
 <div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </div>
 
 
-# Saquib Akhtar Ansari
+# saquib akhtar ansari
 
 
-> An incubating professional android developer, mesmerized by the world of tech!
+> an incubating software engineer, mesmerized by the world of tech!
 
 ![](https://img.shields.io/badge/-C-79B9CC?style=flat-square&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -29,16 +29,16 @@
 
 ---
 
-Current daily workflow: Python, Flutter, Git and Dart.
+current daily workflow: Flutter, Git and Dart.
 
-Having developed several applications using Flutter and Native.
-Fluency in C, C++, Java and Dart.
-And experienced with Python data analysis a little.
+developed several applications using Flutter and Native.
+fluent in C, C++, Java and Dart.
+and experienced with Python data analysis a little.
 
 ---
 
 
-## Get in touch
+## get in touch
 <!-- 
 [![](https://img.shields.io/badge/-@saquibansari0101-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/saquibansari0101) -->
 [![](https://img.shields.io/badge/-@saquibansari0101-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saquibansari0101)

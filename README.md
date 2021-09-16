@@ -44,7 +44,7 @@
 <!-- 
 [![](https://img.shields.io/badge/-@saquibansari0101-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/saquibansari0101) -->
 [![](https://img.shields.io/badge/-@saquibansari0101-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saquibansari0101)
-[![](https://img.shields.io/badge/-@asaquib__ansari-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:saquib_ansari@outlook.com)
+[![](https://img.shields.io/badge/-@saquib__ansari-0078D4?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white)](mailto:saquib_ansari@outlook.com)
 [![](https://img.shields.io/badge/-@saquibansari-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/15754411/saquibansari)
 [![](https://img.shields.io/badge/-@saquib__ansari-2EC866?style=for-the-badge&logo=Hackerrank&logoColor=white)](https://hackerrank.com/saquib_ansari)
 [![](https://img.shields.io/badge/-saquibansari0101.github.io-000000?style=for-the-badge&logo=Grav&logoColor=white)](http://saquibansari0101.github.io/)

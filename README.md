@@ -6,6 +6,7 @@
 
 ![](https://img.shields.io/badge/-C-79B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/-Dart-0175C1?style=for-the-badge&logo=Dart&logoColor=white)
 ![](https://img.shields.io/badge/-Java-E95420?style=for-the-badge&logo=Java&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -16,6 +17,7 @@
 
 ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
+![](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
 ![](https://img.shields.io/badge/-VSCode-24A4EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![](https://img.shields.io/badge/-Intellij%20IDEA-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)

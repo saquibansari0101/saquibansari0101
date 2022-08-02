@@ -18,6 +18,7 @@
 ![](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
 ![](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 ![](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black)
+![](https://img.shields.io/badge/-.Net-512BD4?style=for-the-badge&logo=.Net&logoColor=white)
 ![](https://img.shields.io/badge/-VSCode-24A4EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=fff)
 ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![](https://img.shields.io/badge/-Intellij%20IDEA-000000?style=for-the-badge&logo=Intellij%20IDEA&logoColor=white)

@@ -36,8 +36,8 @@
 
 ### Stats
 
-| <img src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&count_private=true"> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=saquibansari0101&ring=5094F0&currStreakLabel=5094F0"/> |
-|:------------:|:------------:|
+<img src="https://github-readme-stats.vercel.app/api?username=saquibansari0101&show_icons=true&count_private=true">
+
 
 [![Saquibs's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saquibansari0101&theme=react)]()
 
